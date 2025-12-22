@@ -1,0 +1,48 @@
+/* we added body styling to confrim hltm link connection */
+body {
+    background-color: grey;
+}
+ /* Styles for my header */
+header{
+    background-color: aquamarine;
+}
+/* Next we will add styling to our H1 tag */
+h1 {
+    color: green;
+}
+
+/* Then we will style the h2 */
+h2 {
+    color:blueviolet;
+}
+
+/* Then we will style the h3 */
+
+h3 {
+    color: azure;
+}
+/* Then we will style the h4 */
+h4 {
+    color: black;
+}
+
+/* Then we will style the h5 */
+h5{
+    color: brown;
+}
+/* Then we will style the h6 */
+h6 {
+    color: blanchedalmond;
+}
+
+/* style anchor tags inside list items */
+
+a {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+ }
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: violet;
+}
+ 
